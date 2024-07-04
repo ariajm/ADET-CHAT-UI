@@ -1,6 +1,6 @@
 Chat UI
 
-        A simple and creative chat user interface designed to demonstrate basic web design and front-end development principles. The Chat UI features a clean design with a chat display area, text input box, and send button. This project is ideal for showcasing chat functionalities and can be used as a template for building more complex chat applications.
+A simple and creative chat user interface designed to demonstrate basic web design and front-end development principles. The Chat UI features a clean design with a chat display area, text input box, and send button. This project is ideal for showcasing chat functionalities and can be used as a template for building more complex chat applications.
 
 Features
 
