@@ -10,7 +10,9 @@ Send Button: Includes a send button for submitting messages.
 **Refresh Button: Refreshes the chat display to show the latest updates.
 Background Image: A pattern background image covers the entire body of the chat interface.
 Responsive Design: The chat container adjusts to fit various screen sizes.
+
 Technologies Used
 
 HTML: For structuring the content of the chat interface.
+
 CSS: For styling the chat UI, including the layout, colors, and background image.
